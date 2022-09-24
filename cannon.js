@@ -37,7 +37,7 @@ try {
 } catch (err) {
 
     if (err.code !== 'ENOENT') throw err;
-    console.log('Example: node cloudflare_bypass.js GET 4 https://anonfiles.com/ 45 64');
+    console.log('Example: node cannon.js GET 4 https://anonfiles.com/ 45 64');
 
     process.exit();
 }
