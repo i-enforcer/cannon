@@ -2,7 +2,7 @@
 
 **Install Packages:**
 ```
-npm install request colors
+npm install request
 ```
 **Download Proxy:**
 ```
