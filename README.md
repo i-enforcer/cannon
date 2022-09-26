@@ -7,7 +7,7 @@ npm install request
 **Download Proxy:**
 ```
 https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=1000000&country=all&ssl=all&anonymity=all
-https://api.proxyscrape.com/?request=displayproxies&proxytype=http&anonymity=elite
+https://api.proxyscrape.com/?request=displayproxies&proxytype=http&timeout=1000000&anonymity=elite
 ```
 **Example:** 
 ```
